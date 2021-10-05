@@ -4,6 +4,10 @@
 
 </script>
 
+<svelte:head>
+    	<title>Eisenhower Grid</title>
+</svelte:head>
+
 <div class="container">
     <div class="grid">
         <slot />
