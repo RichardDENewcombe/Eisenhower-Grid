@@ -1,7 +1,7 @@
 
 # [Eisenhower Grid](https://eisenhower-grid.vercel.app/)
 
-I started using an eisenhower grid to re-organise my to do list at work late 2021.
+I started using an Eisenhower grid to re-organise my to do list at work late 2021.
 
 After realising the increased productivity gains more organising a to do list in a logical manner I decided that it would be a useful and fun project for myself.
 
