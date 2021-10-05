@@ -3,7 +3,7 @@
 
 I started using an Eisenhower grid to re-organise my to do list at work late 2021.
 
-After realising the increased productivity gains more organising a to do list in a logical manner I decided that it would be a useful and fun project for myself.
+After realising the productivity gains from having a more organised to do list I decided it would be a useful project for myself.
 
 ## Features to add:
 
